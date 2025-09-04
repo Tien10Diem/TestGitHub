@@ -1,0 +1,5 @@
+dungbien o private.txt
+nhung ma
+bien do ko duoc push len git
+dai loai la no can phai giau di 
+kieu nhu key api hay pass database
